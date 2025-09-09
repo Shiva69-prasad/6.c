@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int a=5;
+    int a=5 (or) 0;
 
     if(a>1){
 printf("a is greater then 1");
