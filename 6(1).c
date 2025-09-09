@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int a=8;
+    int a=8 (or) 0 (or) 1;
 
     if(a>1){
        printf("a is greater then 1");
